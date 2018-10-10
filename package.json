@@ -9,6 +9,20 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "jsdom": "^12.1.0",
+    "node-fetch": "^2.2.0",
+    "puppeteer": "^1.9.0",
+    "request": "^2.88.0",
     "scrape-it": "^5.0.5"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felipenogueira/ember_checker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/felipenogueira/ember_checker/issues"
+  },
+  "homepage": "https://github.com/felipenogueira/ember_checker#readme"
 }
